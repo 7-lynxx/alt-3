@@ -1,0 +1,166 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    color: #FFF;
+    font-family: "Lato", sans-serif;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: -0.008px;
+}
+.free{
+    width: 312px;
+    height: 795px;
+    border-radius: 0px 6px 6px 0px;
+    background: #1179BF;
+}
+.price, .per{
+    display: flex;
+}
+.lancer{
+    margin: 42px 173px 5px 46px;
+    color: #FFF;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: -0.01px;
+}
+.price{
+    width: 140px;
+    height: 72px;
+    margin: 0px 128px 3px 44px;
+}
+.dollar{
+    width: 14px;
+    height: 29px;
+    margin: 13px 6px 30px 0px;
+    color: #FFF;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: -0.015px;
+}
+
+.nine{
+    vertical-align: bottom;
+    font-size: 72px;
+    color: #FFF;
+
+}
+div.year{
+    position: relative;
+}
+.yer{
+    color: #FFF;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: -0.015px;
+    vertical-align: bottom;
+    position: absolute;
+    bottom: 2px;
+}
+.auto{
+    width: 229px;
+    height: 48px;
+    color: #FFF;
+    font-size: 16px;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 24px; 
+    letter-spacing: -0.008px;
+    margin: 0px 37px 36px 46px;
+}
+.combined{
+    width: 20px;
+    height: 20px;
+    margin-right: 11px;
+}
+
+.comb .marks{
+    display: flex;
+    color: #FFF;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: -0.008px;
+}
+.comb{
+    width: 170px;
+    height: 96px;
+    margin: 0px 97px 38px 45px;
+}
+.marks{
+    margin-bottom: 16px;
+}
+.marks:last-child{
+    margin-bottom: 0px;
+}
+.sites{
+    width: 180px;
+    height: 50px;
+    color: #FFF;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: -0.008px;
+    text-wrap:nowrap;
+    margin: 0px 80px 42px 46px;
+}
+.switch{
+    text-decoration: underline #B9F5FF;
+
+}
+.split{
+    width: 224px;
+    height: 2px;
+    margin: auto;
+    background-color: #FFFFFF;
+    opacity: 0.2005;
+}
+.ftp{
+    width: 227px;
+    height: 96px;
+    margin: 41px 39px 0px 46px;
+    font-style: italic;
+    font-weight: 400;
+    font-size: 18px;
+}
+.bitmap{
+    display: flex;
+    margin: 0px 39px 143px 44px;
+}
+.itmap{
+    width: 40px;
+    height: 40px;
+    margin-right: 14px;
+    margin-top: 17px;
+    border-radius: 50%;
+}
+.kirk{
+    width: 76px;
+    height: 19px;
+    margin: 27px 99px 11px 0px;
+}
+.terms{
+    /* display: flex; */
+    width: 867px;
+    color: #636B6F;
+    text-align: center;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin: 913px 286px 139px 287px;
+    
+}
+.ser{
+    color: #31708F;
+    text-decoration: none;
+}
