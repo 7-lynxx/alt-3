@@ -97,7 +97,7 @@ div.year{
 }
 .marks{
     margin-bottom: 16px;
-    text-wrap: nowrap;
+    
 }
 .marks:last-child{
     margin-bottom: 0px;
@@ -164,4 +164,7 @@ div.year{
 .ser{
     color: #31708F;
     text-decoration: none;
+}
+.client, .repo{
+    text-wrap: nowrap;
 }
