@@ -97,6 +97,7 @@ div.year{
 }
 .marks{
     margin-bottom: 16px;
+    text-wrap: nowrap;
 }
 .marks:last-child{
     margin-bottom: 0px;
